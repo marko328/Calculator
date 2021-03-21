@@ -1,0 +1,45 @@
+body {
+	  background-color:SkyBlue
+	  }
+	  
+	  table, th, td {
+        width: 300px;
+		border: 2px solid DarkSlateBlue;
+        font-size: 20px;
+	 }
+	 
+	
+	 
+	 #score {
+	     width: 30%;
+       text-align: center;
+       margin-bottom: 20px;
+       border-radius: 80px;
+       outline: none;
+       border: 2px solid SteelBlue;
+       font-size: 1.8rem;
+       padding: 5px;
+       transition: 0.2s linear;
+	 
+	 }
+	 
+	 .box input {
+       width: 30%;
+       text-align: center;
+       margin-bottom: 20px;
+       border-radius: 100px;
+       outline: none;
+       border: 2px solid SteelBlue;
+       font-size: 1.8rem;
+       padding: 5px;
+       transition: 0.2s linear;
+	   background-color:Silver ;
+	   
+	 }
+	 
+	  .box button:hover {
+       transform: scale(1.2);
+       color: #fff;
+       background-color: Tan;
+       cursor: pointer;
+      }
